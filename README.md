@@ -15,6 +15,7 @@ Remarks:
 - Console apps are **not** allowed
 - Frontend frameworks / libraries (React, Angular) are **not** allowed
 - You should be able to explain basic things about your framework of choice (where routes are defined, how the models are handled etc.) 
+- You will also be marked on good coding practices and design principles, as they have been taught in Fundamentals of Programming and Object Oriented Programming and as they apply to your choice of framework
 
 Suggestions:
 - You can probably find libraries in your favorite language that help you build Web applications and REST APIs
